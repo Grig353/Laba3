@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3gitrabota</string>
+    <string name="text_name">Имя: Гриша\n</string>
+    <string name="text_name2">Возраст: 20\n</string>
+    <string name="text_name3">Профиль: Ученик</string>
+    <string name="text_name4">Фото\n</string>
+    <string name="text_name5">Проекты\n</string>
+    <string name="text_name6">Достижения\n</string>
+    <string name="text_name8">Продаю собак\n</string>
+</resources>
